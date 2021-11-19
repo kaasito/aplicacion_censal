@@ -32,4 +32,8 @@ echo $e ->getMessage();
 }
  die('vale');
     }
+
+    public function modificar(){
+        
+    }
 }
